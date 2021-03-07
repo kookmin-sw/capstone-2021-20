@@ -27,7 +27,8 @@
 
 ### 1. 프로잭트 소개
 
-프로젝트
+소프트웨어 전공자 및 학생들을 위한 소프트웨어 용어 번역 사전
+Software term translation dictionary for software majors and students
 
 ### 2. 소개 영상
 
@@ -35,9 +36,8 @@
 
 ### 3. 팀 소개
 
-팀을 소개하세요.
-
-팀원정보 및 담당이나 사진 및 SNS를 이용하여 소개하세요.
+20152870 홍진욱 : 팀장, 개발
+20152840 이원우 : Main Repository 운영 담당자, 개발
 
 ### 4. 사용법
 
