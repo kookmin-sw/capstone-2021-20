@@ -27,8 +27,8 @@
 
 ### 1. 프로잭트 소개
 
-소프트웨어 전공자 및 학생들을 위한 소프트웨어 용어 번역 사전
-Software term translation dictionary for software majors and students
+- 소프트웨어 전공자 및 학생들을 위한 소프트웨어 용어 번역 사전
+- Software term translation dictionary for software majors and students
 
 ### 2. 소개 영상
 
@@ -36,8 +36,8 @@ Software term translation dictionary for software majors and students
 
 ### 3. 팀 소개
 
-20152870 홍진욱 : 팀장, 개발
-20152840 이원우 : Main Repository 운영 담당자, 개발
+- 20152870 홍진욱 : 팀장, 개발
+- 20152840 이원우 : Main Repository 운영 담당자, 개발
 
 ### 4. 사용법
 
