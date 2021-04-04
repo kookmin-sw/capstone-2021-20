@@ -7,6 +7,7 @@
 ### User input dictionary of the Software terms
 
 ## 2.소개 영상
+https://youtu.be/IprpdnapaiM
 
 ## 3.사용법
 
