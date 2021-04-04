@@ -7,8 +7,7 @@
 ### User input dictionary of the Software terms
 
 ## 2.소개 영상
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/IprpdnapaiM "Video Title")
+[Youtube](https://youtu.be/IprpdnapaiM "유튜브영상.")
 
 ## 3.사용법
 
