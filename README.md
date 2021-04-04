@@ -7,7 +7,6 @@
 ### User input dictionary of the Software terms
 
 ## 2.소개 영상
-[Youtube](https://youtu.be/IprpdnapaiM "유튜브영상")
 [![Youtube](https://img.youtube.com/vi/IprpdnapaiM/hqdefault.jpg)](https://www.youtube.com/watch?v=IprpdnapaiM)
 
 
