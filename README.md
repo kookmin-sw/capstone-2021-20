@@ -25,7 +25,7 @@
 
 ## 내용에 아래와 같은 내용들을 추가하세요.
 
-### 1. 프로트 소개
+### 1. 프로젝트 소개
 
 - 소프트웨어 전공자 및 학생들을 위한 소프트웨어 용어 번역 사전
 - Software term translation dictionary for software majors and students
