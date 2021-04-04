@@ -7,9 +7,8 @@
 ### User input dictionary of the Software terms
 
 ## 2.소개 영상
-'''markdown
-<iframe width="640" height="360" src="https://youtu.be/IprpdnapaiM" frameborder="0" gesture="media" allowfullscreen=""></iframe>
-'''
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/IprpdnapaiM "Video Title")
 
 ## 3.사용법
 
