@@ -8,6 +8,8 @@
 
 ## 2.소개 영상
 
+[![Youtube](https://img.youtube.com/vi/IprpdnapaiM/maxresdefault.jpg)](https://www.youtube.com/watch?v=IprpdnapaiM)
+
 ## 3.사용법
 
 ## 4.팀 소개
