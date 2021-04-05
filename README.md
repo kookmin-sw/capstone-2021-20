@@ -15,7 +15,7 @@
 ## 4.팀 소개
 
 ```
-홍진욱
+홍진욱(Hong-JinWook)
 
 Student ID : 20152870
 E-mail : ghdwlsdnr426@kookmin.ac.kr
@@ -23,7 +23,7 @@ Role : 팀장, 프론트엔드, 백엔드
 ```
 
 ```
-이원우
+이원우(Lee-WonWoo)
 
 Student ID : 20152849
 E-mail : okmijn05@kookmin.ac.kr
