@@ -33,6 +33,7 @@ Role : 깃허브 담당자, 프론트엔드, 백엔드
 ## 5.사용 기술(Library & Framework & Database)
 ### - Front-end
 ![image](https://user-images.githubusercontent.com/37397419/119276171-56889b00-bc54-11eb-91b4-ba2d7f82b73a.png)
+
 ![image](https://user-images.githubusercontent.com/37397419/119276176-58eaf500-bc54-11eb-9e9f-dbe8e521f224.png)
 
 #### - Framework
