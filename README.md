@@ -7,7 +7,7 @@
 ### User input dictionary of the Software terms
 #### Programming beginners and freshmen who are not familiar with programming are having a great deal of difficulty when it comes to terminology. I search for information by searching on a portal site, but rather, too much information tends to make it difficult to select information. So, we are trying to solve the difficulty of terminology with the help of experienced people and seniors. Anyone who is authenticated can search for terms, and those who want to help can help other users based on their studies or taking notes.
 
-## 2.소개 영상
+## 2.시연 영상
 [![image](https://user-images.githubusercontent.com/37397419/119295171-1bf12380-bc91-11eb-91bf-1b9b832bef78.png)](https://youtu.be/7lwVWukfDLU)
 
 
