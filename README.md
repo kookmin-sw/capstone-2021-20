@@ -9,6 +9,7 @@
 
 ## 2.소개 영상
 [![Youtube](https://img.youtube.com/vi/IprpdnapaiM/maxresdefault.jpg)](https://youtu.be/7lwVWukfDLU)
+[![image](https://user-images.githubusercontent.com/37397419/119295171-1bf12380-bc91-11eb-91bf-1b9b832bef78.png)](https://youtu.be/7lwVWukfDLU)
 
 
 
