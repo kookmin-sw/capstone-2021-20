@@ -8,7 +8,7 @@
 #### Programming beginners and freshmen who are not familiar with programming are having a great deal of difficulty when it comes to terminology. I search for information by searching on a portal site, but rather, too much information tends to make it difficult to select information. So, we are trying to solve the difficulty of terminology with the help of experienced people and seniors. Anyone who is authenticated can search for terms, and those who want to help can help other users based on their studies or taking notes.
 
 ## 2.소개 영상
-[![Youtube](https://img.youtube.com/vi/IprpdnapaiM/maxresdefault.jpg)](https://www.youtube.com/watch?v=IprpdnapaiM)
+[![Youtube](https://img.youtube.com/vi/IprpdnapaiM/maxresdefault.jpg)](https://youtu.be/7lwVWukfDLU)
 
 
 
