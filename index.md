@@ -10,9 +10,8 @@
 
 [![image](https://user-images.githubusercontent.com/37397419/119295171-1bf12380-bc91-11eb-91bf-1b9b832bef78.png)](https://youtu.be/7lwVWukfDLU)
 
-## 3.사용법
 
-## 4.팀 소개
+## 3.팀 소개
 
 ```
 홍진욱(Hong-JinWook)
@@ -30,7 +29,7 @@ E-mail : okmijn05@kookmin.ac.kr
 Role : 깃허브 담당자, 프론트엔드, 백엔드
 ```
 
-## 5.사용 기술(Library & Framework & Database)
+## 4.사용 기술(Library & Framework & Database)
 ### - Front-end
 ![image](https://user-images.githubusercontent.com/37397419/119276171-56889b00-bc54-11eb-91b4-ba2d7f82b73a.png)
 
